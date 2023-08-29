@@ -1,0 +1,14 @@
+D:\BNE\Planilha 3\problema6\bin\Debug\net7.0\problema6.exe
+D:\BNE\Planilha 3\problema6\bin\Debug\net7.0\problema6.deps.json
+D:\BNE\Planilha 3\problema6\bin\Debug\net7.0\problema6.runtimeconfig.json
+D:\BNE\Planilha 3\problema6\bin\Debug\net7.0\problema6.dll
+D:\BNE\Planilha 3\problema6\bin\Debug\net7.0\problema6.pdb
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\problema6.GeneratedMSBuildEditorConfig.editorconfig
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\problema6.AssemblyInfoInputs.cache
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\problema6.AssemblyInfo.cs
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\problema6.csproj.CoreCompileInputs.cache
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\problema6.dll
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\refint\problema6.dll
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\problema6.pdb
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\problema6.genruntimeconfig.cache
+D:\BNE\Planilha 3\problema6\obj\Debug\net7.0\ref\problema6.dll
